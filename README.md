@@ -2,13 +2,13 @@
 
 Sitio web para una cafetería de especialidad patagónica. Proyecto desarrollado como práctica de HTML y CSS puro, sin frameworks ni librerías.
 
-🔗 **[Ver demo en vivo](https://adrianoingenieriadev.github.io/Caf-Sureno/)**
+🔗 **[Ver demo en vivo](https://adrianoingenieriadev.github.io/Cafe-Sureno/)**
 
 ---
 
 ## 📸 Preview
 
-[![Preview de Café Sureño](img/screenshot.png)](https://adrianoingenieriadev.github.io/Caf-Sureno/)---
+[![Preview de Café Sureño](img/screenshot.png)](https://adrianoingenieriadev.github.io/Cafe-Sureno/)---
 
 ## 🛠️ Tecnologías
 
